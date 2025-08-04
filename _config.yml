@@ -1,0 +1,5 @@
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Add any other necessary config, such as baseurl, etc.
