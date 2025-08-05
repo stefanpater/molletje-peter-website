@@ -8,10 +8,11 @@ public_folder: "/uploads"
 collections:
   - name: "pages"
     label: "Pagina's"
-    folder: "content"
+    folder: "content/pages"
     create: true
     slug: "{{slug}}"
     fields:
       - { label: "Titel", name: "title", widget: "string" }
       - { label: "Inhoud", name: "body", widget: "markdown" }
+
 
