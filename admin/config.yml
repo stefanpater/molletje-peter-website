@@ -18,3 +18,4 @@ collections:
       - label: Inhoud
         name: body
         widget: markdown
+
